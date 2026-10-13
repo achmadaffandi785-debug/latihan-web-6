@@ -1,0 +1,13 @@
+.item {
+    width: 150px;
+    background-color: lightblue;
+    border: 2px solid navy;
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;   /* coba: flex-start, flex-end, space-between, space-around, space-evenly */
+    background-color: #ddd;
+    padding: 10px;
+}
